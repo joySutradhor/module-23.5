@@ -7,3 +7,5 @@ let y = 5 ;
 if (x == y) {
     console.log("There value are same .");
 }
+
+let test = 10;
