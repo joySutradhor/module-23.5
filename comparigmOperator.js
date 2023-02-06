@@ -8,4 +8,3 @@ if (x == y) {
     console.log("There value are same .");
 }
 
-let test = 10;
