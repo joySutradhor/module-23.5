@@ -4,14 +4,14 @@
 
 // Let format , let diye value update kora jai , kinto let diye same nam a variable assign kora jay na .
 
-let x = 10 ;
-let x = 5 ;  // error because let diye same nam a duita variable declare kora jay na .
-x = 7 ;  // correct format to update value ;
+let x = 10;
+// let x = 5 ;  // error because let diye same nam a duita variable declare kora jay na .
+    x = 7;          // correct format to update value ;
 
 
 // const format , constant ar value update kora jay na .
 
-const num = 10 ;
-const num = 10 ; // make it error
-    num = 7 ; // make it error
+    const num = 10;
+    // const num = 10; // make it error
+    // num = 7; // make it error
 
